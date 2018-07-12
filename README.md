@@ -1,6 +1,6 @@
-# Library Schema
+# Library Database Schema (Microsoft Sql Server)
 
-I compiled scripts to create a schema in Microsoft Sql Server for a library project at The Tech Academy. The full directions are as follows:
+I compiled scripts to create a database schema in Microsoft Sql Server for a library project at The Tech Academy. The full directions are as follows:
 
 SQL Drill
 Create a database schema for a library management system as described in the "libraryschema" picture that is also uploaded in the repo. 
